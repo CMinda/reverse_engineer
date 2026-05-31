@@ -1,9 +1,4 @@
 # 🔍 Reverse Engineering — Binary Analysis & Code Reconstruction
-
-> **Module:** Reversing — Ingeniería Inversa  
-> **Institution:** Universidad Hemisferios — Cybersecurity Master's Program  
-> **Author:** Carlos Minda  
-
 ---
 
 ## 📋 Overview
